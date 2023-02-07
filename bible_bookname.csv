@@ -1,0 +1,67 @@
+약어,풀네임,Eng_fullname,book_name_Eng,book_name_Kor
+창,1-01창세기,01-Genesis (창세기),Genesis,창세기
+출,1-02출애굽기,02-Exodus (출애굽기),Exodus,출애굽기
+레,1-03레위기,03-Leviticus (레위기),Leviticus,레위기
+민,1-04민수기,04-Numbers (민수기),Numbers,민수기
+신,1-05신명기,05-Deuteronomy (신명기),Deuteronomy,신명기
+수,1-06여호수아,06-Joshua (여호수아),Joshua,여호수아
+삿,1-07사사기,07-Judges (사사기),Judges,사사기
+룻,1-08룻기,08-Ruth (룻기),Ruth,룻기
+삼상,1-09사무엘상,09-1 Samuel (사무엘상),1 Samuel,사무엘상
+삼하,1-10사무엘하,10-2 Samuel (사무엘하),2 Samuel,사무엘하
+왕상,1-11열왕기상,11-1 Kings (열왕기상),1 Kings,열왕기상
+왕하,1-12열왕기하,12-2 Kings (열왕기하),2 Kings,열왕기하
+대상,1-13역대상,13-1 Chronicles (역대상),1 Chronicles,역대상
+대하,1-14역대하,14-2 Chronicles (역대하),2 Chronicles,역대하
+스,1-15에스라,15-Ezra (에스라),Ezra,에스라
+느,1-16느헤미야,16-Nehemiah (느헤미야),Nehemiah,느헤미야
+에,1-17에스더,17-Esther (에스더),Esther,에스더
+욥,1-18욥기,18-Job (욥기),Job,욥기
+시,1-19시편,19-Psalms (시편),Psalms,시편
+잠,1-20잠언,20-Proverbs (잠언),Proverbs,잠언
+전,1-21전도서,21-Ecclesiastes (전도서),Ecclesiastes,전도서
+아,1-22아가,22-Song of Songs (아가서),Song of Songs,아가서
+사,1-23이사야,23-Isaiah (이사야),Isaiah,이사야
+렘,1-24예레미야,24-Jeremiah (예레미야),Jeremiah,예레미야
+애,1-25예레미야애가,25-Lamentations (예레미야애가),Lamentations,예레미야애가
+겔,1-26에스겔,26-Ezekiel (에스겔),Ezekiel,에스겔
+단,1-27다니엘,27-Daniel (다니엘),Daniel,다니엘
+호,1-28호세아,28-Hosea (호세아),Hosea,호세아
+욜,1-29요엘,29-Joel (요엘),Joel,요엘
+암,1-30아모스,30-Amos (아모스),Amos,아모스
+옵,1-31오바댜,31-Obadiah (오바댜),Obadiah,오바댜
+욘,1-32요나,32-Jonah (요나),Jonah,요나
+미,1-33미가,33-Micah (미가),Micah,미가
+나,1-34나훔,34-Nahum (나훔),Nahum,나훔
+합,1-35하박국,35-Habakkuk (하박국),Habakkuk,하박국
+습,1-36스바냐,36-Zephaniah (스바냐),Zephaniah,스바냐
+학,1-37학개,37-Haggai (학개),Haggai,학개
+슥,1-38스가랴,38-Zechariah (스가랴),Zechariah,스가랴
+말,1-39말라기,39-Malachi (말라기),Malachi,말라기
+마,2-01마태복음,40-Matthew (마태복음),Matthew,마태복음
+막,2-02마가복음,41-Mark (마가복음),Mark,마가복음
+눅,2-03누가복음,42-Luke (누가복음),Luke,누가복음
+요,2-04요한복음,43-John (요한복음),John,요한복음
+행,2-05사도행전,44-Acts (사도행전),Acts,사도행전
+롬,2-06로마서,45-Romans (로마서),Romans,로마서
+고전,2-07고린도전서,46-1 Corinthians (고린도전서),1 Corinthians,고린도전서
+고후,2-08고린도후서,47-2 Corinthians (고린도후서),2 Corinthians,고린도후서
+갈,2-09갈라디아서,48-Galatians (갈라디아서),Galatians,갈라디아서
+엡,2-10에베소서,49-Ephesians (에베소서),Ephesians,에베소서
+빌,2-11빌립보서,50-Philippians (빌립보서),Philippians,빌립보서
+골,2-12골로새서,51-Colossians (골로새서),Colossians,골로새서
+살전,2-13데살로니가전서,52-1 Thessalonians (데살로니가전서),1 Thessalonians,데살로니가전서
+살후,2-14데살로니가후서,53-2 Thessalonians (데살로니가후서),2 Thessalonians,데살로니가후서
+딤전,2-15디모데전서,54-1 Timothy (디모데전서),1 Timothy,디모데전서
+딤후,2-16디모데후서,55-2 Timothy (디모데후서),2 Timothy,디모데후서
+딛,2-17디도서,56-Titus (디도서),Titus,디도서
+몬,2-18빌레몬서,57-Philemon (빌레몬서),Philemon,빌레몬서
+히,2-19히브리서,58-Hebrews (히브리서),Hebrews,히브리서
+약,2-20야고보서,59-James (야고보서),James,야고보서
+벧전,2-21베드로전서,60-1 Peter (베드로전서),1 Peter,베드로전서
+벧후,2-22베드로후서,61-2 Peter (베드로후서),2 Peter,베드로후서
+요일,2-23요한일서,62-1 John (요한일서),1 John,요한일서
+요이,2-24요한이서,63-2 John (요한이서),2 John,요한이서
+요삼,2-25요한삼서,64-3 John (요한삼서),3 John,요한삼서
+유,2-26유다서,65-Jude (유다서),Jude,유다서
+계,2-27요한계시록,66-Revelation (요한계시록),Revelation,요한계시록
